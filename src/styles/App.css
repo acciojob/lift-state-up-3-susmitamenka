@@ -1,6 +1,14 @@
 .parent{
     background-color: green;
+    
 }
-.child{
-    background-color: red;
+.child1{
+    background-color: rgb(170, 39, 39);
+    margin: 5px;
+    padding: 5px;
+}
+.child2{
+background-color: rgb(173, 173, 7);
+   margin: 5px;
+    padding: 5px;
 }
